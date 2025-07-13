@@ -1,0 +1,27 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# EV3特定文件
+*.bak
+*.rbf.bak
+*.ev3.bak
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# 其他
+node_modules/
+.env 
